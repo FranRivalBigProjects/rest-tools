@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Endpoints: '+ep.value.split('\n').length;}

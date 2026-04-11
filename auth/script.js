@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Auth methods: '+a.value.split('\n').length;}

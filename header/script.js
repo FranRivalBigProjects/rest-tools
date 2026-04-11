@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Headers: '+h.value.split('\n').length;}

@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let r=+req.value,t=+time.value;res.innerText='Req/sec: '+(r/t);}

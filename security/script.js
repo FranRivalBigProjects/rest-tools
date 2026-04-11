@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let s=(sec.value.match(/auth|token/gi)||[]).length;res.innerText='Issues: '+s;}

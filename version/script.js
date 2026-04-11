@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Versions: '+v.value.split('\n').length;}

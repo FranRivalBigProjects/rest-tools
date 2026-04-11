@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText=s.value.includes('{')?'Valid':'Invalid';}

@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let i=+items.value,p=+page.value;res.innerText='Pages: '+Math.ceil(i/p);}

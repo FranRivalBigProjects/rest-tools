@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let r=+req.value,l=+limit.value;res.innerText='Usage: '+(r/l*100).toFixed(2)+'%';}
